@@ -1,7 +1,7 @@
-== Edward Corrigall
-:hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer
-:published_at: 2021-06-27
-:author: Eddie Corrigall
+== C SivaSubramaniyam
+:hp-tags: resume, SivaSubramaniyam, c, College of Engineering Guindy Anna university, computer science, bachelor, software, developer, engineer, polygot engineer, technical architect
+:published_at: 2021-06-28
+:author: C SivaSubramaniyam
 :doctype: article
 :encoding: UTF-8
 :lang: en
@@ -9,10 +9,10 @@
 :icons: font
 :icon-set: af
 
-Toronto, Ontario, Canada +
-mailto:eddiecorrigall@gmail.com[],
-https://linkedin.com/in/eddiecorrigall[@*LinkedIn*],
-https://github.com/eddiecorrigall[@*GitHub*]
+Chennai, TamilNadu, India +
+mailto:byteshiva@gmail.com[],
+https://linkedin.com/in/byteshiva[@*LinkedIn*],
+https://github.com/byteshiva[@*GitHub*]
 
 == Skills
 * designing and implementing scalable products and productivity tooling
@@ -36,7 +36,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 |*Languages*
 |Python, Java, Bash
-|JavaScipt
+|JavaScipt, NodeJS
 |
 
 |*Backend*
@@ -58,12 +58,12 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-* 8+ years work experience as a software engineer.
+* 13+ years work experience as a software engineer.
 * 4+ years experience with cloud services.
-* certified Amazon Web Service professional.
+* 4+ years work experience as a Technical Architect
 
-=== Mark43
-*Senior Software Engineer*, July 2020 -- _present_
+=== Stealth Startup
+*Founder/Technical Architect*, July 2020 -- _present_
 
 *Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
@@ -75,8 +75,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 <<<
 
-=== Naborly
-*Senior Software Engineer*, December 2019 -- July 2020
+=== Kore.ai
+*Technical Architect*, December 2019 -- July 2020
 
 *Environment:* Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS
 
@@ -89,8 +89,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
 * took initiative to overhaul Looker analytics
 
-=== Acquia
-*Software Engineer*, August 2017 -- December 2019
+=== Target Corp
+*Lead Consultant/ Technical Architect*, August 2017 -- December 2019
 
 *Environment:* Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring
 
@@ -103,8 +103,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * resolved outstanding rest api database throttling
 * built in-house tooling to improve developer and operation experience for team
 
-=== Instacart
-*Platform Engineer*, January 2016 -- August 2017
+=== Polycom
+*Senior Staff Engineer*, January 2016 -- August 2017
 
 *Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant
 
@@ -120,22 +120,24 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Education
 [horizontal]
-Bachelor of Computer Science -- Honours, Co-op :: University of Waterloo +
-Waterloo, Ontario
+Bachelor of Computer Science :: University of Madras +
+Chennai, TamilNadu, India
+Master of Software Engineerings :: College of Engineering, Guindy, +
+Anna University, Chennai, TamilNadu, India
+
 
 == Certifications
 [horizontal]
 AWS Certified Developer -- Associate 2018 :: PSI Services LLC +
-https://aw.certmetrics.com/amazon/public/verification.aspx[License Verification #9JZ0Y2GCJME4QRW9]
 
 [horizontal]
 Programming Mobile Services for Android Handheld Systems -- Comunication 2016 :: Corsera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/MEAJXDNAXQ[Credential ID MEAJXDNAXQ]
+Participated
 
 [horizontal]
 Programming Mobile Services for Android Handheld Systems -- Part 2, 2015 :: Corsera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Credential ID ANB9AQDUBZ]
+Participated
 
 [horizontal]
 Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Corsera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID R5JF2BGZTM]
+Participated

@@ -1,14 +1,14 @@
-= Eddie Corrigall
-:published_at: 2019-03-15
-:hp-tags: resume, university of waterloo, computer science, bachelor, eddie corrigall
+= C SivaSubramaniyam
+:published_at: 2020-07-01
+:hp-tags: resume, anna university, computer science, bachelor, Software Engineering, masters, C SivaSubramaniyam
 
 NOTE: Last updated on *{docdate}*
 
 == CONTACT
-St Clair Avenue West, Toronto, ON +
-mailto:eddiecorrigall@gmail.com[] +
-https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
-https://github.com/eddiecorrigall[@ *GitHub*] +
+Chennai, TamilNadu, IN +
+mailto:byteshiva@gmail.com[] +
+https://linkedin.com/in/byteshiva[@ *LinkedIn*],
+https://github.com/byteshiva[@ *GitHub*] +
 
 == SUMARY
 I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be responsible for, so that I can help train and foster the working environment surrounding me.
